@@ -29,6 +29,7 @@
     "node-forge": "^0.6.34",
     "node-rsa": "^0.2.24",
     "node-uuid": "^1.4.3",
+    "object.assign": "^4.0.4",
     "xml": "^1.0.0",
     "xml-crypto": "0.8.2",
     "xml-encryption": "^0.7.2",
